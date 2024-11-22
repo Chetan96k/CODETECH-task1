@@ -1,9 +1,9 @@
-Name : Chetan Kanti
-Company : CODTECH IT SOLUTIONS PVT.LTD
-ID : CT08DS9326
-Domain : BACKEND WEB DEVELOPMENT
-Duration : OCTOBER 25th, 2024 to NOVEMBER 25th, 2024
-Mentor :  Neela Santhosh Kumar
+Name : Chetan Kanti.
+Company : CODTECH IT SOLUTIONS PVT.LTD.
+ID : CT08DS9326.
+Domain : BACKEND WEB DEVELOPMENT.
+Duration : OCTOBER 25th, 2024 to NOVEMBER 25th, 2024.
+Mentor :  Neela Santhosh Kumar.
 
 RESTful API with Interactive Front-End
 
