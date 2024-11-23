@@ -1,6 +1,6 @@
-
+<<<<<<< HEAD
 # CODETECH-task1
-
+=======
 My Garage 🚗🏍️
 A simple RESTful web application to manage your collection of cars and bikes. This project demonstrates basic CRUD operations with a user-friendly interface.
 
@@ -50,6 +50,6 @@ Open your browser and visit:
 bash
 Copy code
 http://localhost:3000
-
+>>>>>>> 3a8727f (Initial commit: My Garage project)
 
 ![alt text](<Screenshot 2024-11-22 135317.png>)
